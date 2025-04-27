@@ -1,6 +1,7 @@
 # 📝 Document Summarization and Review Agent using LangGraph
 
-This project is a **document summarization chatbot** built with **LangChain**, **LangGraph**, **Groq**, and **Huggingface embeddings**, running in **Google Colab**.  
+This project is a **document summarization chatbot** built with **LangChain**, **LangGraph**, **Groq**, and **Huggingface embeddings**, running in **Google Colab**. 
+
 It can generate concise summaries from documents, take **user feedback**, and **refine** summaries through multiple review iterations.
 
 ---

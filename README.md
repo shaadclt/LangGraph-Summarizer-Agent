@@ -101,6 +101,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) f
 
 ## 📬 Contact
 For questions, suggestions, or collaborations:
-Mohamed — shaadclt@gmail.com
+Mohamed Shaad — shaadclt@gmail.com
 
 

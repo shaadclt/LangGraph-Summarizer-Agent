@@ -78,7 +78,7 @@ The summarization-review loop is visualized using a Mermaid Diagram.
 ![image](https://github.com/user-attachments/assets/af8dec96-6d08-4e38-ae8b-a45deb92291c)
 
 
-🧠 Technologies Used
+## 🧠 Technologies Used
   - LangChain
   - LangGraph
   - Groq Inference Engine
